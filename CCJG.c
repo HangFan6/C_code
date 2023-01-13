@@ -1,5 +1,4 @@
 #define Default_Vertex_Size  10
-
 #define T char
 
 typedef struct GraphMtx
